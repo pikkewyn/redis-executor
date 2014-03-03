@@ -26,7 +26,7 @@ Configuration on sentinel machines:
 
 port 26379
 daemonize no
-#change ip adress below
+-change ip adress below-
 sentinel monitor redis-master 153.65.234.69 6379 2
 sentinel down-after-milliseconds redis-master 2000
 sentinel can-failover redis-master yes
