@@ -1,0 +1,4 @@
+GET mykey
+SET mykey zium
+GET bambam bimbim
+LPUSH tmplist "Ala ma" "kota a" "kot jest" "ali"

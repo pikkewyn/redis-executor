@@ -1,0 +1,3 @@
+GET mykey
+SET mykey zium
+GET bambam bimbim
